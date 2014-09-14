@@ -1,5 +1,5 @@
 CeaserCipherDecorder
 ====================
 
-Converts English into CeaserCipher
+Converts English into Ceaser Cipher
 
